@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -771,15 +771,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #BC5A3C;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #BC5A3C;
     color: #FFFFFF!important;
 }
 
@@ -1039,4 +1039,12 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.citation{
+    font-size: 22px;
+}
+
+.auteur-citation{
+    font-size: 15px;
 }
