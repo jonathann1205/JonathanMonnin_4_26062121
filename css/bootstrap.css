@@ -1435,7 +1435,7 @@ img {
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
-    display: inline;
+    display: block;
     max-width: 100%;
     height: auto
 }
@@ -3710,7 +3710,6 @@ fieldset[disabled] .btn {
     box-shadow: none;
     opacity: .65
 }
-
 
 
 .btn-default {
